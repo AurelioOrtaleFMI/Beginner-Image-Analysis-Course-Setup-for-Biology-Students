@@ -8,7 +8,6 @@ Welcome to the **Image Analysis for Biologists** beginner course! This course is
 
 Before starting, ensure you have the following:
 
-- **A Windows or macOS computer** with an internet connection.
 - **Anaconda Python Distribution** – This will install Python and helpful scientific libraries, and allow you to manage environments easily. (We will go through the installation steps below.)
 - **Visual Studio Code (VS Code)** – A source-code editor that we will use to write code and run Jupyter Notebooks.
 - **Git** – A version control system for tracking changes in your code and syncing with GitHub. Having Git will allow you to download the course materials and save your work. (If Git is not installed, VS Code’s Source Control panel will prompt you with instructions.)
