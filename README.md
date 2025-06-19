@@ -1,10 +1,5 @@
 # Beginner-Image-Analysis-Course-Setup-for-Biology-Students
 
-Certainly! Below is the full README in markdown format that you can directly use for your GitHub repository:
-
-```markdown
-# Beginner Course: Image Analysis for Biologists
-
 ## Introduction
 
 Welcome to the **Image Analysis for Biologists** beginner course! This course is designed for biological Master's students with little to no programming experience, to teach the basics of microscopy image analysis using Python. We will use open-source tools: **Python** (via the Anaconda distribution) and **Jupyter Notebooks** for coding, with Visual Studio Code (VS Code) as our development environment. All coding will be done in Python, and we’ll utilize common image processing libraries (such as OpenCV and scikit-image) to analyze microscopy images. In our examples, we will work with fluorescence microscopy images – for instance, a DAPI channel (nuclei stain) and a second channel with an immunofluorescence (IF) or single-molecule FISH (smFISH) signal. By the end of this course, you will know how to set up your Python environment, load and visualize images, perform basic image processing, and analyze simple two-channel microscopy data.
@@ -154,8 +149,3 @@ While the course will keep things basic and practical, you might want to explore
 * **Advanced smFISH Analysis Tools:** Look into tools like **Big-FISH** or **Starfish** for advanced smFISH analysis.
 
 Good luck with the course, and happy coding in your journey to analyze biological images!
-
-```
-
-You can copy this markdown directly into your GitHub repository's `README.md` file. This will guide students through setting up their environment and understanding the course flow.
-```
